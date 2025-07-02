@@ -1,6 +1,5 @@
 import { API } from '@/services/axios/api';
 import { Post } from '@/types/Post';
-import Image from 'next/image';
 import { useEffect, useState } from 'react';
 import ListCard from '../ui/ListCard';
 
